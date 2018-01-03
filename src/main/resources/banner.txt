@@ -1,0 +1,27 @@
+${AnsiColor.CYAN}
+
+MMMMMMMM               MMMMMMMM  iiii                            GGGGGGGGGGGGG        RRRRRRRRRRRRRRRRR
+M:::::::M             M:::::::M i::::i                        GGG::::::::::::G        R::::::::::::::::R
+M::::::::M           M::::::::M  iiii                       GG:::::::::::::::G        R::::::RRRRRR:::::R
+M:::::::::M         M:::::::::M                            G:::::GGGGGGGG::::G        RR:::::R     R:::::R
+M::::::::::M       M::::::::::Miiiiiii nnnn  nnnnnnnn     G:::::G       GGGGGG          R::::R     R:::::Rnnnn  nnnnnnnn
+M:::::::::::M     M:::::::::::Mi:::::i n:::nn::::::::nn  G:::::G                        R::::R     R:::::Rn:::nn::::::::nn
+M:::::::M::::M   M::::M:::::::M i::::i n::::::::::::::nn G:::::G                        R::::RRRRRR:::::R n::::::::::::::nn
+M::::::M M::::M M::::M M::::::M i::::i nn:::::::::::::::nG:::::G    GGGGGGGGGG          R:::::::::::::RR  nn:::::::::::::::n
+M::::::M  M::::M::::M  M::::::M i::::i   n:::::nnnn:::::nG:::::G    G::::::::G          R::::RRRRRR:::::R   n:::::nnnn:::::n
+M::::::M   M:::::::M   M::::::M i::::i   n::::n    n::::nG:::::G    GGGGG::::G          R::::R     R:::::R  n::::n    n::::n
+M::::::M    M:::::M    M::::::M i::::i   n::::n    n::::nG:::::G        G::::G          R::::R     R:::::R  n::::n    n::::n
+M::::::M     MMMMM     M::::::M i::::i   n::::n    n::::n G:::::G       G::::G          R::::R     R:::::R  n::::n    n::::n
+M::::::M               M::::::Mi::::::i  n::::n    n::::n  G:::::GGGGGGGG::::G        RR:::::R     R:::::R  n::::n    n::::n
+M::::::M               M::::::Mi::::::i  n::::n    n::::n   GG:::::::::::::::G ...... R::::::R     R:::::R  n::::n    n::::n
+M::::::M               M::::::Mi::::::i  n::::n    n::::n     GGG::::::GGG:::G .::::. R::::::R     R:::::R  n::::n    n::::n
+MMMMMMMM               MMMMMMMMiiiiiiii  nnnnnn    nnnnnn        GGGGGG   GGGG ...... RRRRRRRR     RRRRRRR  nnnnnn    nnnnnn
+
+${AnsiColor.BRIGHT_RED}
+Application Version: ${application.version}${application.formatted-version}
+Spring Boot Version: ${spring-boot.version}${spring-boot.formatted-version}}
+
+
+
+
+
